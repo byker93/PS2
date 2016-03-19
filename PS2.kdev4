@@ -1,0 +1,4 @@
+[Project]
+Name=PS2
+Manager=KDevCustomMakeManager
+VersionControl=kdevgit
