@@ -20,3 +20,8 @@ char* playfair_encrypt(const char* key, const char* text);
 //na veľkosti písmen.
 //Návratová hodnota: referencia na dešifrovaný reťazec. 
 char* playfair_decrypt(const char* key, const char* text);
+
+
+char* toLower(char* text);
+char* toUpper(char* text);
+char* makeTable(const char* key);
